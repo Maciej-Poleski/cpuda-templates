@@ -1,0 +1,4 @@
+[Project]
+Name=cpuda-templates
+Manager=KDevCMakeManager
+VersionControl=kdevbazaar
